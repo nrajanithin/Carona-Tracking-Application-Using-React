@@ -1,7 +1,7 @@
 {
   "name": "carona_tracker",
   "version": "0.1.0",
-  "homepage": "https://nrajanithin.github.io/carona-tracker",
+  "homepage": "https://nrajanithin.github.io/carona-tracker-nithin",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.12",
