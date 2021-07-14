@@ -1,7 +1,7 @@
 {
   "name": "carona_tracker",
   "version": "0.1.0",
-  "homepage": "https://nrajanithin.github.io/Carona-Tracking-Application-Using-React",
+  "homepage": "https://nrajanithin.github.io/Corona-Tracking-Application-Using-React",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.12",
